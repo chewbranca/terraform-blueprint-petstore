@@ -1,5 +1,5 @@
 variable "pet-count" {
-  description = "How many pets do you want? LOTS"
+  description = "How many pets do you want? A dog"
   type        = number
 }
 
